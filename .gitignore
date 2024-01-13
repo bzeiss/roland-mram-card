@@ -6,3 +6,6 @@
 mram-card/d50mram-backups/
 
 *.lck
+mram-card/_autosave-*
+
+mram-card/fp-info-cache

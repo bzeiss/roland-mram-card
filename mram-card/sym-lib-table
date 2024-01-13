@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name d50mram)(type Legacy)(uri ${KIPRJMOD}/d50mram.lib)(options "")(descr ""))
+  (version 7)
+  (lib (name "d50mram")(type "KiCad")(uri "${KIPRJMOD}/d50mram.kicad_sym")(options "")(descr ""))
 )
